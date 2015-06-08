@@ -1,9 +1,13 @@
 something for git & material design
 github 连接地址：https://github.com/jooking/something
+
+掌握git让我们提高效率～
+使用material design，我们开发的产品更时尚～
 一.git的故事
 
 Git 诞生记-故事会
 
+    git是目前最好的版本控制系统（没有之一）
 1.版本控制的发展历史
 2.git诞生的故事
     http://www.jianshu.com/p/ee89f9385ca4
@@ -22,3 +26,5 @@ Git 诞生记-故事会
     中文版：http://design.1sters.com/
 
 
+    应用demo：https://github.com/lightSky/Awesome-MaterialDesign
+    android 2.2版本以上也可使用：https://github.com/navasmdc/MaterialDesignLibrary
