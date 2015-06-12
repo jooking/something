@@ -1,4 +1,5 @@
 something for git & material design
+
 github 连接地址：https://github.com/jooking/something
 
 掌握git让我们提高效率～
@@ -21,9 +22,10 @@ Git 诞生记-故事会
     http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137402760310626208b4f695940a49e5348b689d095fc000
 
 3.git简单使用：
+
     教程：http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 
-        Git教程 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+    Git教程 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 
 二.material design 
